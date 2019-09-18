@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1527991941 source:c:\users\marco\desktop\red7aps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	"Tipos_Dados.h"
+	"Funcoes_Baralho.h"
+	"Mesa_Jogadores.h"
+	"Funcoes_Impressao.h"
+	"Funcoes_Jogo.h"
+	"Alocar.h"
+	"Simbolos.h"
+
+1527971775 source:c:\users\marco\desktop\red7aps\funcoes_baralho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"Tipos_Dados.h"
+	"Funcoes_Baralho.h"
+	"Mesa_Jogadores.h"
+	"Funcoes_Impressao.h"
+	"Funcoes_Jogo.h"
+	"Alocar.h"
+	"Simbolos.h"
+
+1527971767 c:\users\marco\desktop\red7aps\tipos_dados.h
+
+1527909593 c:\users\marco\desktop\red7aps\funcoes_baralho.h
+
+1526842612 source:c:\users\marco\desktop\red7aps\funcoes_jogador.c
+	<stdio.h>
+	<stdlib.h>
+	"Tipos_Dados.h"
+	"Funcoes_Baralho.h"
+	"Funcoes_Jogador.h"
+	"Mesa_Jogadores.h"
+
+1526615733 c:\users\marco\desktop\red7aps\funcoes_jogador.h
+
+1527902027 c:\users\marco\desktop\red7aps\mesa_jogadores.h
+
+1527969649 source:c:\users\marco\desktop\red7aps\mesa_jogadores.c
+	<stdio.h>
+	<stdlib.h>
+	"Tipos_Dados.h"
+	"Funcoes_Baralho.h"
+	"Mesa_Jogadores.h"
+	"Alocar.h"
+
+1526840840 source:c:\users\marco\desktop\red7aps\funcoes_avaliacao_paletas.c
+	<stdio.h>
+	<stdlib.h>
+	"Tipos_Dados.h"
+	"Funcoes_Avaliacao_Paletas.h"
+	"Funcoes_Jogador.h"
+	"Mesa_Jogadores.h"
+	"Funcoes_Baralho.h"
+
+1526840889 c:\users\marco\desktop\red7aps\funcoes_avaliacao_paletas.h
+
+1527901769 c:\users\marco\desktop\red7aps\funcoes_impressao.h
+
+1527997121 source:c:\users\marco\desktop\red7aps\funcoes_impressao.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Tipos_Dados.h"
+	"Funcoes_Baralho.h"
+	"Mesa_Jogadores.h"
+	"Funcoes_Impressao.h"
+	"Funcoes_Jogo.h"
+	"Alocar.h"
+	"Simbolos.h"
+	<windows.h>
+
+1527995543 source:c:\users\marco\desktop\red7aps\funcoes_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tipos_Dados.h"
+	"Funcoes_Baralho.h"
+	"Mesa_Jogadores.h"
+	"Funcoes_Impressao.h"
+	"Funcoes_Jogo.h"
+	"Alocar.h"
+	"Simbolos.h"
+
+1527994261 c:\users\marco\desktop\red7aps\funcoes_jogo.h
+
+1527994194 source:c:\users\marco\desktop\red7aps\alocar.c
+	<stdio.h>
+	<stdlib.h>
+	"Tipos_Dados.h"
+	"Funcoes_Baralho.h"
+	"Mesa_Jogadores.h"
+	"Funcoes_Impressao.h"
+	"Funcoes_Jogo.h"
+	"Alocar.h"
+	"Simbolos.h"
+
+1527819252 c:\users\marco\desktop\red7aps\alocar.h
+
+1527997208 source:c:\users\marco\desktop\red7aps\simbolos.c
+	<stdio.h>
+	<stdlib.h>
+	"Tipos_Dados.h"
+	"Funcoes_Baralho.h"
+	"Mesa_Jogadores.h"
+	"Funcoes_Impressao.h"
+	"Funcoes_Jogo.h"
+	"Alocar.h"
+	"Simbolos.h"
+
+1527983626 c:\users\marco\desktop\red7aps\simbolos.h
+
+1021546204 source:c:\users\marco\downloads\contest\console.cpp
+	"console.h"
+
+1021542648 c:\users\marco\downloads\contest\console.h
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	<windows.h>
+
